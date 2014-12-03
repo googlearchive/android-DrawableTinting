@@ -1,11 +1,8 @@
 Android DrawableTinting Sample
-==============================
+===================================
 
 Sample that shows applying tinting and color filters to Drawables both programmatically
 and as Drawable resources in XML.
-
-Introduction
-------------
 
 Tinting is set on a nine-patch drawable through the "tint" and "tintMode" parameters.
 A color state list is referenced as the tint color, which defines colors for different
@@ -18,8 +15,8 @@ changed from the UI to see the effect of different options.
 Pre-requisites
 --------------
 
-- Android SDK (L Developer Preview)
-- Android Build Tools v20
+- Android SDK v21
+- Android Build Tools v21.1.1
 - Android Support Repository
 
 Getting Started
@@ -52,7 +49,7 @@ file to you under the Apache License, Version 2.0 (the "License"); you may not
 use this file except in compliance with the License.  You may obtain a copy of
 the License at
 
-  http://www.apache.org/licenses/LICENSE-2.0
+http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
