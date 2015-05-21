@@ -1,3 +1,4 @@
+
 Android DrawableTinting Sample
 ===================================
 
